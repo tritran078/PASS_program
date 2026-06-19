@@ -1,0 +1,21 @@
+employee_id,name,department,age,salary,years_experience,city,performance_rating,remote_worker
+1001,Alice Johnson,Engineering,28,85000,4,San Diego,4.5,Yes
+1002,Bob Smith,Marketing,35,72000,8,Los Angeles,3.8,No
+1003,Carol Lee,Engineering,31,92000,6,San Francisco,4.7,Yes
+1004,David Brown,HR,45,68000,15,San Diego,3.9,No
+1005,Eva Wilson,Finance,29,78000,5,Seattle,4.2,Yes
+1006,Frank Miller,Engineering,38,105000,12,Austin,4.8,No
+1007,Grace Kim,Marketing,26,65000,2,Los Angeles,3.5,Yes
+1008,Henry Davis,Finance,41,95000,14,Seattle,4.1,No
+1009,Ivy Chen,Engineering,24,78000,1,San Diego,4.0,Yes
+1010,Jack White,HR,50,73000,20,Phoenix,3.7,No
+1011,Karen Garcia,Engineering,33,,7,Austin,4.6,Yes
+1012,Liam Martinez,Marketing,30,70000,5,,4.1,No
+1013,Mia Robinson,Finance,,82000,6,Seattle,4.3,Yes
+1014,Noah Clark,Engineering,27,88000,3,San Francisco,,Yes
+1015,Olivia Lewis,HR,36,69000,10,Phoenix,3.8,No
+1016,Paul Walker,Engineering,42,110000,18,Austin,4.9,No
+1017,Quinn Hall,Finance,25,76000,2,Seattle,4.0,Yes
+1018,Rachel Young,Marketing,32,71000,7,Los Angeles,4.2,Yes
+1019,Sam Green,Engineering,29,89000,5,San Diego,4.4,No
+1020,Tina Adams,HR,39,70000,11,Phoenix,3.9,Yes
