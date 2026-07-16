@@ -1,0 +1,21 @@
+Annotation in the paper title:"Sparse Linear Regression Is Easy on Random Supports"
+
+1) the paper mainly focus in spares-linear regression (SLR), in which the main object of the study is in the statistical and complexity of the problem.
+
+2) more loosely, is there a polynomial time algorithm that achieves error 0.1 with N = o(d) for some k =w(1), od is this computationally hard under natural assumptions ?
+
+3) result: out main result demonstrates that the widely belived exponential computational statistical gap for sparse linear regression vanihses vectir is chosen unifromly at random.
+
+4) there is a keyword section, an abstract section and a introduction section, which introduce what is currently happening in the field that they are working on, what is there angle and what is the question they are trying to solve.
+
+5) using a lot of thoery and definitions, starting with those thigns and evaluate to get the answer.
+
+6) explaining a lot of stuff and there decision on WHY they would do something and why not.
+
+7) conclusion: showed that sparse linear regression is tractable even for the worst case design matrices when the support of the sparese regression vector is chosen uniformly at random.
+
+8) have a seperate section for acknowledgemetn and what they do and who supported them.
+
+9) have a long list of references that are beign used in the reserach paper, mainly textbooks, press, where did they use it in the paper and who write those papers.
+
+
